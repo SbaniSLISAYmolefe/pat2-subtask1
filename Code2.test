@@ -44,4 +44,6 @@ string Morse(char c)
  cout << " Translation: << endl;
 
 	return Value;
+cout << "program does not function as required" << endl
+// wrote statement to further confirm originality
 }
