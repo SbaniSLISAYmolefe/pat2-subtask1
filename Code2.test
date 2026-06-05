@@ -40,5 +40,8 @@ string Morse(char c)
 		Value = "UNDEFINED"; //meaning it could not find c
 	else
 		Value = morse[i]; //grabbing the morse code
+ cout << " Message complete." << endl;
+ cout << " Translation: << endl;
+
 	return Value;
 }
